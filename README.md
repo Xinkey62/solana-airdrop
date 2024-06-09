@@ -36,7 +36,7 @@ bebop.xyz:
 
 ### Config
 
-'''
+```
 {
   "General": { 
     "Timeout": "30",
@@ -50,4 +50,4 @@ bebop.xyz:
 	"Bebop": "true"
   }
 }
-'''
+```
