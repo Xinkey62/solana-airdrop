@@ -1,6 +1,6 @@
 ### How it works
 
-For each wallet from the list the program performs a number of activities on each protocol of decetralised finance, for example, swap SOL to some other token or provide liquidity in pairs. The work is done with the help of SolanaSDK and Net Framework 4.8. At the moment 5 protocols have been added on the Solana network for token swap.
+For every wallet on the list, the program executes several tasks on each decentralized finance protocol, such as swapping SOL for another token or providing liquidity in various pairs. The work is done with the help of SolanaSDK and Net Framework 4.8. At the moment 5 protocols have been added on the Solana network for token swap.
 
 ### Protocols and activities
 
@@ -26,7 +26,6 @@ bebop.xyz:
 
 ### Setup
 
-!!! DO NOT USE YOUR MAIN WALLETS! PROTOCOLS CAN BE HACKED AND YOU LOSE YOUR MONEY !!!
 - Make sure you have Net Framework 4.8 installed.
 - [Clone](https://github.com/Xinkey62/solana-arbitrage/archive/refs/heads/main.zip) the repository and unzip the repository fo folder.
 - Create SOL private key list with a balance. A minimum of 0.3 SOL on each address is required.
@@ -34,6 +33,7 @@ bebop.xyz:
 - Edit 'settings.json' to configure which projects you want to use for transactions
 - Edit the RPC to your own or Shyft's
 
+!!! DO NOT USE YOUR MAIN WALLETS! PROTOCOLS CAN BE HACKED AND YOU LOSE YOUR MONEY !!!
 ### Config
 
 ```
